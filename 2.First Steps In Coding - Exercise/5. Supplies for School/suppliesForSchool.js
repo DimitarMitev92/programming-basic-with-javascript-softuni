@@ -1,13 +1,13 @@
 function suppliesForSchool(input) {
-    const broiHimikali = Number(input[0]);
-    const broiMarkeri = Number(input[1]);
-    const litriPreparat = Number(input[2]);
-    const procent = Number(input[3]);
+    const numPens = Number(input[0]);
+    const numMarkers = Number(input[1]);
+    const litersPreparation = Number(input[2]);
+    const percent = Number(input[3]);
 
-    let allHimikali = broiHimikali * 5.8;
-    let allMarkeri = broiMarkeri * 7.2;
-    let allPreparat = litriPreparat * 1.2;
-    let all = allHimikali + allMarkeri + allPreparat;
-    let final = all - (all *(procent /100));
-    console.log(final);
+    let totalPens = numPens * 5.8;
+    let totalMarkers = numMarkers * 7.2;
+    let totalPreparation = litersPreparation * 1.2;
+    let all = totalPens + totalMarkers + totalPreparation;
+    let finalSum = all - (all *(percent /100));
+    console.log(finalSum);
 }
