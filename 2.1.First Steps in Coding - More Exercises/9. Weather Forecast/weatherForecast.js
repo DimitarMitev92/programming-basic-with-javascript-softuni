@@ -1,4 +1,4 @@
-function weatherForecast (input){
+function weatherForecast(input){
     const weather = input[0];
 
     if( weather === "sunny"){
