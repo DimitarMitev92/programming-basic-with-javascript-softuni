@@ -5,7 +5,6 @@ function fishLand(input){
     const kgScad = Number(input[3]);          
     const kgMussels = Number(input[4]);      
 
-
     let priceBonito = priceMackerelPerKg*1.6;
     let sumBonito = priceBonito * kgBonito;
     let priceScad = priceSpratPerKg*1.8;
