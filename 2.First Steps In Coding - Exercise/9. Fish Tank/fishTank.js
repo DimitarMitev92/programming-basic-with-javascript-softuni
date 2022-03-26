@@ -6,6 +6,6 @@ function fishTank(input) {
 
     let volumeOfTank = length * width * height;
     let volumeInLiters = volumeOfTank / 1000;
-    let neededlITRES = volumeInLiters * (1 - (percent / 100));
-    console.log(neededlITRES);
+    let neededLiters = volumeInLiters * (1 - (percent / 100));
+    console.log(neededLiters);
 }
