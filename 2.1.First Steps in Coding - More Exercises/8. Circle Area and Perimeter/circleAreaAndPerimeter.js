@@ -1,4 +1,4 @@
-function perimeterAndAreaCircle (input){
+function perimeterAndAreaCircle(input){
     const r = Number(input[0]);
     const area = Math.PI * r * r;
     const perimetar =  2 * Math.PI * r;
