@@ -1,4 +1,4 @@
-function greeningYard (input){
+function greeningYard(input){
     const squareMeters = Number(input[0]);
     let result = squareMeters* 7.61;
     let finalPrice = result - result*0.18;
