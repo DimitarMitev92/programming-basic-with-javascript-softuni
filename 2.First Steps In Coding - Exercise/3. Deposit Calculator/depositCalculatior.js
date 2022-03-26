@@ -1,4 +1,4 @@
-function depositCalculator (input){
+function depositCalculator(input){
     const depositSum = Number(input[0]);
     const valueOfDeposit = Number(input[1]);
     const yearPercent = Number(input[2]) / 100;
