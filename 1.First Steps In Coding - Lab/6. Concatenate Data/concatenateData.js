@@ -1,4 +1,4 @@
-function concatenateData (input){
+function concatenateData(input){
     const firstName = input[0];
     const lastName = input[1];
     const age = input[2];
