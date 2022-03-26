@@ -1,3 +1,3 @@
-function solve(){
+function helloSoftUni(){
     console.log("Hello SoftUni");
 }
