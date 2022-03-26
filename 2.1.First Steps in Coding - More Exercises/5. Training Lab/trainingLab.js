@@ -1,4 +1,4 @@
-function trainingLab (input){
+function trainingLab(input){
     const w = Number(input[0])*100;
     const h = Number(input[1])*100;
 
