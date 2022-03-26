@@ -1,4 +1,4 @@
-function vegieMarket (input){
+function vegieMarket(input){
     const priceFruitsPerKg = Number(input[0]);
     const priceVegiePerKg = Number(input[1]);
     const fruitsKg = Number(input[2]);
