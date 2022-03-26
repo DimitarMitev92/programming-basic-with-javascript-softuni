@@ -1,4 +1,4 @@
-function summberBooks (input){
+function summberBooks(input){
     const numPages = Number(input[0]);
     const pagesPer1hour = Number(input[1]);
     const days = Number(input[2]);
