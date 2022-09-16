@@ -71,30 +71,30 @@
 
 ---
 
-## За курса
+## For the course
 
-Курсът "**Programming Basics**" дава начални умения по програмиране, необходими за всички технологични специалности в Софтуерния университет. Това включва писане на **програмен код** на начално ниво (basic coding skills), работа със **среда за разработка** (IDE), използване на **променливи** и данни, **оператори** и **изрази**, работа с **конзолата** (четене на входни данни и печатане на резултати), използване на условни конструкции (**if**, **if-else**) и цикли (**for**, **while**).
+The "**Programming Basics**" course provides the initial programming skills necessary for all technology majors at Software University. This includes writing **program code** at an entry level (basic coding skills), working with a **development environment** (IDE), using **variables** and data, **operators** and ** expressions**, working with the **console** (reading input data and printing results), using conditional constructs (**if**, **if-else**) and loops (**for**, **while**).
 
-## Умения
+## Skills
 
-- Работа с конзолата (вход и изход на данни)
-- Работа с по-сложни логически проверки
-- Извършване на прости пресмятания;
-- Работа с цикли (for)
-- Работа с логически проверки (if-else)
-- Работа с по-сложни цикли (вложени for и while цикли)
+- Working with the console (data input and output)
+- Work with more complex logical checks
+- Perform simple calculations
+- Working with loops (for)
+- Working with logical checks (if-else)
+- Working with more complex loops (nested for and while loops)
 
-## Теми
+## Themes
 
-- Първи стъпки в програмирането
-- Прости операции и пресмятания
-- Условни конструкции
-- Вложени условни конструкции
-- While-цикъл
-- For-цикъл
-- Вложени цикли
+- First steps in programming
+- Simple operations and calculations
+- Conditional constructions
+- Nested conditionals
+- While-loop
+- For-loop
+- Nested loops
 
-## Полезни линкове
+## Useful links
 
 - SoftUni 
 <a href="https://softuni.bg">`https://softuni.bg`</a>
